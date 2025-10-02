@@ -35,7 +35,7 @@ The pipeline follows the **Data Engineering Lifecycle**:
 
 ## 📐 Workflow Diagram
 
-![Data Engineering Workflow](images/stack.png)
+![Data Engineering Workflow](./images/data.png)
 
 ---
 
