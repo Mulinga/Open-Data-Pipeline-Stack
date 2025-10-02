@@ -1,6 +1,6 @@
 # Open Data Pipeline Stack
 
-An **open-source data engineering workflow** inspired by Twiga's analytics stack.  
+An **open-source data engineering workflow** for use in open-source analytics.  
 This repository documents an end-to-end data pipeline architecture using **Apache + open-source tools** for scalable, reliable, and real-time analytics.
 
 ---
